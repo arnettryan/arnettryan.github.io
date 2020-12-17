@@ -1,0 +1,33 @@
+
+body{
+    background-color: #000000;
+background-image: url("https://www.transparenttextures.com/patterns/black-linen-2.png");
+}
+
+
+.navbar-brand{
+    float: left;
+}
+
+.nav{
+    background-color: black;
+    position: Fixed;
+    top: 0;
+    width: 100%;
+    transition: top 0.2s;
+}
+
+.jumbotron{
+    background-image: url('./assets/lakeSuperior.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .display-4{
+      color: white;
+   }
+   .lead{
+       color: white;
+   }
+
+
+
